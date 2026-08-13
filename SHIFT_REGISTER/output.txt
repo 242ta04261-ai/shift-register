@@ -1,0 +1,20 @@
+
+## `output.txt`
+
+```text id="OUTPUT_SR4"
+4-BIT SHIFT REGISTER SIMULATION OUTPUT
+======================================
+
+Time = 0 | Reset = 1 | Serial In = 0 | Q = xxxx
+Time = 5 | Reset = 1 | Serial In = 0 | Q = 0000
+Time = 10 | Reset = 0 | Serial In = 1 | Q = 1000
+Time = 20 | Reset = 0 | Serial In = 0 | Q = 0100
+Time = 30 | Reset = 0 | Serial In = 1 | Q = 1010
+Time = 40 | Reset = 0 | Serial In = 1 | Q = 1101
+Time = 50 | Reset = 0 | Serial In = 0 | Q = 0110
+Time = 60 | Reset = 0 | Serial In = 1 | Q = 1011
+
+======================================
+Simulation completed successfully.
+Shift register operation verified.
+
